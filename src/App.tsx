@@ -125,6 +125,27 @@ function App() {
           <div className="max-w-3xl mx-auto">
             <div className="mb-12 relative pl-8 border-l-2 border-blue-400/30">
               <div className="absolute w-4 h-4 bg-gradient-to-r from-blue-500 to-cyan-400 rounded-full -left-[9px] top-0"></div>
+              <h3 className="text-xl font-semibold mb-2 text-white">Application Architect</h3>
+              <p className="text-gray-300 mb-2">Bank of America • February 2025 - Present</p>
+              <ul className="list-disc list-inside text-gray-300 space-y-2">
+                <li>Designing scalable architectures for enterprise applications</li>
+                <li>Leading cross-functional teams in implementing secure solutions</li>
+                <li>Overseeing cloud migrations and integration strategies</li>
+              </ul>
+            </div>
+
+            <div className="mb-12 relative pl-8 border-l-2 border-blue-400/30">
+              <div className="absolute w-4 h-4 bg-gradient-to-r from-blue-500 to-cyan-400 rounded-full -left-[9px] top-0"></div>
+              <h3 className="text-xl font-semibold mb-2 text-white">Senior Mulesoft Developer</h3>
+              <p className="text-gray-300 mb-2">Jetblue • September 2023 - January 2025</p>
+              <ul className="list-disc list-inside text-gray-300 space-y-2">
+                <li>Integrated complex systems using MuleSoft APIs</li>
+                <li>Collaborated with cross-functional teams to optimize airline operations</li>
+                <li>Led data migration and transformation initiatives</li>
+              </ul>
+            </div>
+            <div className="mb-12 relative pl-8 border-l-2 border-blue-400/30">
+              <div className="absolute w-4 h-4 bg-gradient-to-r from-blue-500 to-cyan-400 rounded-full -left-[9px] top-0"></div>
               <h3 className="text-xl font-semibold mb-2 text-white">Associate Software Engineer</h3>
               <p className="text-gray-300 mb-2">COFORGE • May 2021 - July 2022</p>
               <ul className="list-disc list-inside text-gray-300 space-y-2">
